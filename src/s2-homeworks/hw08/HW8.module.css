@@ -1,0 +1,45 @@
+.item {
+}
+
+/*.item:after {*/
+/*    content: " ";*/
+/*    width: 606px;*/
+/*    height: 1px;*/
+/*    background: #E5E5E5;*/
+/*    display: block;*/
+/*}*/
+
+.item:last-of-type {
+}
+
+.users {
+    margin-top: 18px;
+    width: 606px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.buttonsContainer {
+    display: flex;
+    gap: 12px;
+}
+
+.container {
+}
+
+.thead {
+    background: #E5E5E5;
+}
+
+.nameCol {
+    width: 297px;
+    height: 36px;
+    font-weight: 300;
+}
+
+.ageCol {
+    /*font-weight: 500;*/
+}

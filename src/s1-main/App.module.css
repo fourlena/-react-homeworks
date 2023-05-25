@@ -1,0 +1,14 @@
+.App {
+    --header_height: 60px;
+}
+.hwContainer{
+    margin: 0 0 75px 73px;
+    width: 1250px;
+}
+.hw {
+
+}
+
+.hwTitle {
+    margin-bottom: 20px;
+}
