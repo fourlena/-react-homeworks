@@ -8,7 +8,9 @@
     justify-content: space-between;
     height: 60px;
     padding: 17px 70px 0 70px;
-
+    color: #000000;
+    background: #FFFFFF;
+    margin-bottom: 47px;
 }
 
 .header h1 {
