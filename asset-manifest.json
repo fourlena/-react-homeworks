@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-homeworks/static/css/main.c9bb2b7c.css",
-    "main.js": "/react-homeworks/static/js/main.5c141627.js",
+    "main.css": "/react-homeworks/static/css/main.87f24576.css",
+    "main.js": "/react-homeworks/static/js/main.6b72df87.js",
     "static/js/787.66cb4309.chunk.js": "/react-homeworks/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-homeworks/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/react-homeworks/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,12 @@
     "static/media/checked.svg": "/react-homeworks/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/react-homeworks/index.html",
     "static/media/burger.svg": "/react-homeworks/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.c9bb2b7c.css.map": "/react-homeworks/static/css/main.c9bb2b7c.css.map",
-    "main.5c141627.js.map": "/react-homeworks/static/js/main.5c141627.js.map",
+    "main.87f24576.css.map": "/react-homeworks/static/css/main.87f24576.css.map",
+    "main.6b72df87.js.map": "/react-homeworks/static/js/main.6b72df87.js.map",
     "787.66cb4309.chunk.js.map": "/react-homeworks/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9bb2b7c.css",
-    "static/js/main.5c141627.js"
+    "static/css/main.87f24576.css",
+    "static/js/main.6b72df87.js"
   ]
 }
