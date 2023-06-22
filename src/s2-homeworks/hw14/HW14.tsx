@@ -16,7 +16,7 @@ import {useSearchParams} from 'react-router-dom'
 const getTechs = (find: string) => {
     return axios
         .get<{ techs: string[] }>(
-            'https://incubator-personal-page-back.herokuapp.com/api/3.0/homework/test2',
+            'https://samurai.it-incubator.io/api/3.0/homework/test2',
             {params: {find}}
         )
         .catch((e) => {
@@ -65,7 +65,7 @@ const HW14 = () => {
     ))
 
     return (
-        <div id={'hw14'}>
+        <div id={'hw14'} className={s2.hwContainer}>
             <div className={s2.hwTitle}>Homework #14</div>
 
             <div className={s2.hw}>
