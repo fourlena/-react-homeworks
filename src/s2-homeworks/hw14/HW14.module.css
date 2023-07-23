@@ -1,7 +1,10 @@
 .tech {
-
 }
 
 .loading {
-
+    padding-left: 243px;
+    color: #4D4D4D;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 300;
 }
